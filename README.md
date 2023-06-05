@@ -47,4 +47,3 @@ SOLUTION
 
 👉 I mastered ReactJS (Router, styled-components, useState, Props), HTML, CSS, Bootstrap and Javascript features in this project. You can see the visual representation of the website above.
 
-<center> ⌛ Happy Coding  ✍ </center>
